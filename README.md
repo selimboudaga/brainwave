@@ -1,4 +1,4 @@
-# 📱 BrainWave 
+# 🧠 BrainWave
 
 A visually stunning and interactive website that highlights the features and qualities of the iPhone 15 Pro. Built using cutting-edge web technologies, this project combines modern design and smooth animations to deliver an engaging user experience.  
 
