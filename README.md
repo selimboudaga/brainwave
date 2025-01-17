@@ -14,8 +14,6 @@ A visually stunning and interactive website that highlights the features and qua
 ## 🌟 Demo  
 Here’s a preview of the website:  
 
-![Website Preview](file:///C:/Users/DELL%20G3/OneDrive%20-%20Ministere%20de%20l'Enseignement%20Superieur%20et%20de%20la%20Recherche%20Scientifique/Bureau/react%20project/website_tuto4/src/assets/projects/brainwave.png)
-
 Click the link to see a live Demo: https://brainwave-ten-xi.vercel.app/
 
 ---
@@ -33,7 +31,7 @@ Follow these steps to clone and run the project locally:
 
 1. Clone the repository:  
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/selimboudaga/brainwave.git
 2. Navigate to the project directory:  
    ```bash
    cd <project-folder>
